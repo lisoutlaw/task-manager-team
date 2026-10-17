@@ -18,7 +18,9 @@
 | [03-nonfunctional-requirements-scenarios.md](docs/03-nonfunctional-requirements-scenarios.md) | 12 нефункциональных требований, 2 пользовательских сценария |
 | [04-lifecycle-architecture.md](docs/04-lifecycle-architecture.md) | Инкрементная модель жизненного цикла, архитектура и модули |
 | [05-uml-test-cases.md](docs/05-uml-test-cases.md) | Диаграмма классов, диаграмма последовательности, 7 тест-кейсов |
-| [source/](docs/source/) | Исходные документы в формате Word |
+| [06-review.md](docs/06-review.md) | Ревью: чек-лист, замечания, исправленные требования |
+| [07-traceability-matrix.md](docs/07-traceability-matrix.md) | Матрица трассировки: требование → сценарий → модуль → класс → тест-кейс |
+| [source/](docs/source/) | Исходные документы прошлого семестра в формате Word (не редактируются; актуальная версия — файлы .md) |
 | [diagrams/](docs/diagrams/) | Изображения UML-диаграмм |
 
 Вся проектная документация лежит в папке [`docs`](docs/).
