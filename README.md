@@ -22,6 +22,8 @@
 | [07-traceability-matrix.md](docs/07-traceability-matrix.md) | Матрица трассировки: требование → сценарий → модуль → класс → тест-кейс |
 | [08-change-request.md](docs/08-change-request.md) | Запрос на изменение № 1: повторяющиеся задачи |
 | [09-sprint-plan.md](docs/09-sprint-plan.md) | Бэклог и план спринта 1 |
+| [10-risks.md](docs/10-risks.md) | Анализ рисков проекта |
+| [11-security.md](docs/11-security.md) | Защищаемые данные, угрозы и меры защиты |
 | [source/](docs/source/) | Исходные документы прошлого семестра в формате Word (не редактируются; актуальная версия — файлы .md) |
 | [diagrams/](docs/diagrams/) | Изображения UML-диаграмм |
 
