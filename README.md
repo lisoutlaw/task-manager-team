@@ -20,7 +20,11 @@
 | [05-uml-test-cases.md](docs/05-uml-test-cases.md) | Диаграмма классов, диаграмма последовательности, 7 тест-кейсов |
 | [06-review.md](docs/06-review.md) | Ревью: чек-лист, замечания, исправленные требования |
 | [07-traceability-matrix.md](docs/07-traceability-matrix.md) | Матрица трассировки: требование → сценарий → модуль → класс → тест-кейс |
+| [08-change-request.md](docs/08-change-request.md) | Запрос на изменение № 1: повторяющиеся задачи |
+| [09-sprint-plan.md](docs/09-sprint-plan.md) | Бэклог и план спринта 1 |
 | [source/](docs/source/) | Исходные документы прошлого семестра в формате Word (не редактируются; актуальная версия — файлы .md) |
 | [diagrams/](docs/diagrams/) | Изображения UML-диаграмм |
+
+История версий — в [CHANGELOG.md](CHANGELOG.md).
 
 Вся проектная документация лежит в папке [`docs`](docs/).
